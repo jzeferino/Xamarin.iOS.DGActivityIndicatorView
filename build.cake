@@ -10,6 +10,7 @@ var configuration = "Release";
 
 // Define directories.
 var solutionFile = new FilePath("Xamarin.iOS.DGActivityIndicatorViewBinding.sln");
+var libProject = new FilePath("src/Xamarin.iOS.DGActivityIndicatorViewBinding/Xamarin.iOS.DGActivityIndicatorViewBinding.csproj");
 var artifactsDirectory = new DirectoryPath("artifacts");
 
 // Versioning.
@@ -44,10 +45,10 @@ Task("Build")
 	.IsDependentOn("Restore")
 	.Does(() =>  
 	{	
-		DotNetBuild(solutionFile, settings => settings
+		DotNetBuild(libProject, settings => settings
 					.SetConfiguration(configuration)
 					.WithTarget("Build")
-					.SetVerbosity(Verbosity.Verbose));
+					.SetVerbosity(Verbosity.Minimal));
 	});
 
 Task ("NuGet")
