@@ -107,8 +107,8 @@
   <ItemGroup>
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
-    <Compile Include="Resources\ViewController.cs" />
-    <Compile Include="Resources\ViewController.designer.cs">
+    <Compile Include="ViewController.cs" />
+    <Compile Include="ViewController.designer.cs">
       <DependentUpon>ViewController.cs</DependentUpon>
     </Compile>
   </ItemGroup>
