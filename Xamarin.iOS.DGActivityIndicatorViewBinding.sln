@@ -1,0 +1,33 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.iOS.DGActivityIndicatorViewBinding", "src\Xamarin.iOS.DGActivityIndicatorViewBinding\Xamarin.iOS.DGActivityIndicatorViewBinding.csproj", "{0E5586D9-48EE-4444-A13B-577474CB416D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.iOS.DGActivityIndicatorViewBinding.Sample", "src\Xamarin.iOS.DGActivityIndicatorViewBinding.Sample\Xamarin.iOS.DGActivityIndicatorViewBinding.Sample.csproj", "{C30662B5-B745-469C-87F4-35EE8D7E2F52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E5586D9-48EE-4444-A13B-577474CB416D}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{0E5586D9-48EE-4444-A13B-577474CB416D}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{0E5586D9-48EE-4444-A13B-577474CB416D}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{0E5586D9-48EE-4444-A13B-577474CB416D}.Release|iPhone.Build.0 = Release|Any CPU
+		{0E5586D9-48EE-4444-A13B-577474CB416D}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{0E5586D9-48EE-4444-A13B-577474CB416D}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{0E5586D9-48EE-4444-A13B-577474CB416D}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{0E5586D9-48EE-4444-A13B-577474CB416D}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{C30662B5-B745-469C-87F4-35EE8D7E2F52}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{C30662B5-B745-469C-87F4-35EE8D7E2F52}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{C30662B5-B745-469C-87F4-35EE8D7E2F52}.Release|iPhone.ActiveCfg = Release|iPhone
+		{C30662B5-B745-469C-87F4-35EE8D7E2F52}.Release|iPhone.Build.0 = Release|iPhone
+		{C30662B5-B745-469C-87F4-35EE8D7E2F52}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{C30662B5-B745-469C-87F4-35EE8D7E2F52}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{C30662B5-B745-469C-87F4-35EE8D7E2F52}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{C30662B5-B745-469C-87F4-35EE8D7E2F52}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal

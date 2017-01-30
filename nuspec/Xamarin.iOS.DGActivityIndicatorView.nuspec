@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Xamarin.iOS.DGActivityIndicatorView</id>
+    <version>$version$</version>
+    <title>Xamarin.iOS.DGActivityIndicatorView</title>
+    <authors>jzeferino</authors>
+    <licenseUrl>https://github.com/jzeferino/Xamarin.iOS.DGActivityIndicatorView/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/jzeferino/Xamarin.iOS.DGActivityIndicatorView</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>DGActivityIndicatorView is a collection of nice loading animations for iOS.</description>    
+    <tags>xamarin, ios, loading</tags>
+  </metadata>
+  <files>
+    <file src="src/Xamarin.iOS.DGActivityIndicatorViewBinding/bin/Release/Xamarin.iOS.DGActivityIndicatorViewBinding.dll" target="lib/Xamarin.iOS10/Xamarin.iOS.DGActivityIndicatorViewBinding.dll" />
+  </files>
+</package>
