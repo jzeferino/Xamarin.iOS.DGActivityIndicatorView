@@ -76,4 +76,4 @@ As seen above in the **Demo**, the indicators are as follows:
  * `BallSpinFadeLoader`
  
 ### License
-Under Apache, see LICENSE file.
+[MIT Licence](LICENSE) 
