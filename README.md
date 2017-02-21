@@ -15,7 +15,7 @@ DGActivityIndicatorView is a collection of nice loading animations for iOS.
 
 ### Step 1
 
-Instal NuGet [package](https://www.nuget.org/packages/Xamarin.iOS.DGActivityIndicatorView/).
+Install NuGet [package](https://www.nuget.org/packages/Xamarin.iOS.DGActivityIndicatorView/).
 
 ### Step 2
 
