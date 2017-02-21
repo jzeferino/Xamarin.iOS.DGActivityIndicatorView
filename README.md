@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/k92l78qy2gbuhrlr?svg=true)](https://ci.appveyor.com/project/jzeferino/xamarin-android-avloadingindicatorview)   [![NuGet](https://img.shields.io/nuget/v/Xamarin.iOS.DGActivityIndicatorView.svg?label=NuGet)](https://www.nuget.org/packages/Xamarin.iOS.DGActivityIndicatorView/)
+[![Build status](https://ci.appveyor.com/api/projects/status/k92l78qy2gbuhrlr?svg=true)](https://ci.appveyor.com/project/jzeferino/xamarin-ios-dgactivityindicatorview)   [![NuGet](https://img.shields.io/nuget/v/Xamarin.iOS.DGActivityIndicatorView.svg?label=NuGet)](https://www.nuget.org/packages/Xamarin.iOS.DGActivityIndicatorView/)
 
 Xamarin.iOS.DGActivityIndicatorView
 ===================
