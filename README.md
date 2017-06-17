@@ -1,9 +1,9 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/k92l78qy2gbuhrlr?svg=true)](https://ci.appveyor.com/project/jzeferino/xamarin-android-avloadingindicatorview)   [![NuGet](https://img.shields.io/nuget/v/Xamarin.iOS.DGActivityIndicatorView.svg?label=NuGet)](https://www.nuget.org/packages/Xamarin.iOS.DGActivityIndicatorView/)
+[![Build status](https://ci.appveyor.com/api/projects/status/k92l78qy2gbuhrlr?svg=true)](https://ci.appveyor.com/project/jzeferino/xamarin-ios-dgactivityindicatorview)   [![NuGet](https://img.shields.io/nuget/v/Xamarin.iOS.DGActivityIndicatorView.svg?label=NuGet)](https://www.nuget.org/packages/Xamarin.iOS.DGActivityIndicatorView/)
 
 Xamarin.iOS.DGActivityIndicatorView
 ===================
 
-This is a Xamarin Android Binding for the [DGActivityIndicatorView](https://github.com/jzeferino/DGActivityIndicatorView).
+This is a Xamarin Android Binding for the [DGActivityIndicatorView](https://github.com/gontovnik/DGActivityIndicatorView).
 
 DGActivityIndicatorView is a collection of nice loading animations for iOS.
 
@@ -15,7 +15,7 @@ DGActivityIndicatorView is a collection of nice loading animations for iOS.
 
 ### Step 1
 
-Instal NuGet [package](https://www.nuget.org/packages/Xamarin.iOS.DGActivityIndicatorView/).
+Install NuGet [package](https://www.nuget.org/packages/Xamarin.iOS.DGActivityIndicatorView/).
 
 ### Step 2
 
