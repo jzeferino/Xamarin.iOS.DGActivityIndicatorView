@@ -3,7 +3,7 @@
 Xamarin.iOS.DGActivityIndicatorView
 ===================
 
-This is a Xamarin Android Binding for the [DGActivityIndicatorView](https://github.com/jzeferino/DGActivityIndicatorView).
+This is a Xamarin Android Binding for the [DGActivityIndicatorView](https://github.com/gontovnik/DGActivityIndicatorView).
 
 DGActivityIndicatorView is a collection of nice loading animations for iOS.
 
