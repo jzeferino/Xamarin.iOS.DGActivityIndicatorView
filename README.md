@@ -8,7 +8,9 @@ This is a Xamarin Android Binding for the [DGActivityIndicatorView](https://gith
 DGActivityIndicatorView is a collection of nice loading animations for iOS.
 
 ## Demo
-![DGActivityIndicatorView](art/DGActivityIndicatorView.gif)
+<p align="center">
+  <img src="https://github.com/jzeferino/Xamarin.iOS.DGActivityIndicatorView/blob/master/art/DGActivityIndicatorView.gif?raw=true"/>
+</p>
 
 ## Usage
 (see the [sample](https://github.com/jzeferino/Xamarin.iOS.DGActivityIndicatorView/tree/master/src/Xamarin.iOS.DGActivityIndicatorViewBinding.Sample) project for a detailed working example)
