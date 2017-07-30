@@ -1,4 +1,5 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/k92l78qy2gbuhrlr?svg=true)](https://ci.appveyor.com/project/jzeferino/xamarin-ios-dgactivityindicatorview)   [![NuGet](https://img.shields.io/nuget/v/Xamarin.iOS.DGActivityIndicatorView.svg?label=NuGet)](https://www.nuget.org/packages/Xamarin.iOS.DGActivityIndicatorView/)
+[![Build Status](https://www.bitrise.io/app/4cd932f5e9d7de5d/status.svg?token=5aTNYeQdsb8qasNxfy0kDw&branch=master)](https://www.bitrise.io/app/4cd932f5e9d7de5d)
+[![NuGet](https://img.shields.io/nuget/v/Xamarin.iOS.DGActivityIndicatorView.svg?label=NuGet)](https://www.nuget.org/packages/Xamarin.iOS.DGActivityIndicatorView/)
 
 Xamarin.iOS.DGActivityIndicatorView
 ===================
@@ -8,7 +9,9 @@ This is a Xamarin Android Binding for the [DGActivityIndicatorView](https://gith
 DGActivityIndicatorView is a collection of nice loading animations for iOS.
 
 ## Demo
-![DGActivityIndicatorView](art/DGActivityIndicatorView.gif)
+<p align="center">
+  <img src="https://github.com/jzeferino/Xamarin.iOS.DGActivityIndicatorView/blob/master/art/DGActivityIndicatorView.gif?raw=true"/>
+</p>
 
 ## Usage
 (see the [sample](https://github.com/jzeferino/Xamarin.iOS.DGActivityIndicatorView/tree/master/src/Xamarin.iOS.DGActivityIndicatorViewBinding.Sample) project for a detailed working example)
