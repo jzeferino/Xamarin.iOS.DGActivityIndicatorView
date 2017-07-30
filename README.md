@@ -1,4 +1,5 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/k92l78qy2gbuhrlr?svg=true)](https://ci.appveyor.com/project/jzeferino/xamarin-ios-dgactivityindicatorview)   [![NuGet](https://img.shields.io/nuget/v/Xamarin.iOS.DGActivityIndicatorView.svg?label=NuGet)](https://www.nuget.org/packages/Xamarin.iOS.DGActivityIndicatorView/)
+[![Build Status](https://www.bitrise.io/app/4cd932f5e9d7de5d/status.svg?token=5aTNYeQdsb8qasNxfy0kDw&branch=master)](https://www.bitrise.io/app/4cd932f5e9d7de5d)
+[![NuGet](https://img.shields.io/nuget/v/Xamarin.iOS.DGActivityIndicatorView.svg?label=NuGet)](https://www.nuget.org/packages/Xamarin.iOS.DGActivityIndicatorView/)
 
 Xamarin.iOS.DGActivityIndicatorView
 ===================
