@@ -1,0 +1,3 @@
+[submodule "src/DGActivityIndicatorView"]
+	path = src/DGActivityIndicatorView
+	url = https://github.com/jzeferino/DGActivityIndicatorView
