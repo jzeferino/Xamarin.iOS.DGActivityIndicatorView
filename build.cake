@@ -1,4 +1,4 @@
-#addin Cake.SemVer
+#addin nuget:?package=Cake.SemVer&loaddependencies=true
 
 // Enviroment
 var isRunningBitrise = Bitrise.IsRunningOnBitrise;
@@ -16,7 +16,7 @@ var artifactsDirectory = new DirectoryPath("artifacts");
 var iOSOutputDirectory = "bin/iPhoneSimulator";
 
 // Versioning. Used for all the packages and assemblies for now.
-var version = CreateSemVer(1, 0, 0);
+var version = CreateSemVer(1, 0, 1);
 
 Setup((context) =>
 {
@@ -30,7 +30,7 @@ Task("Clean")
 	{	
 		CleanDirectory(artifactsDirectory);
 
-		DotNetBuild(solutionFile, settings => settings
+		MSBuild(solutionFile, settings => settings
 				.SetConfiguration(configuration)
 				.WithTarget("Clean")
 				.SetVerbosity(Verbosity.Minimal));
@@ -47,12 +47,12 @@ Task("Build")
 	.IsDependentOn("Restore")
 	.Does(() =>  
 	{	
-		DotNetBuild(libProject, settings => settings
+		MSBuild(libProject, settings => settings
 					.SetConfiguration(configuration)
 					.WithTarget("Build")
 					.SetVerbosity(Verbosity.Minimal));
 
-		DotNetBuild(iOSSample, settings => settings
+		MSBuild(iOSSample, settings => settings
 					.SetConfiguration(configuration)
 					.WithTarget("Build")
 					.WithProperty("Platform", "iPhoneSimulator")
