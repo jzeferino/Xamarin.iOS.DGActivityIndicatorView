@@ -1,4 +1,4 @@
-[![Build Status](https://www.bitrise.io/app/4cd932f5e9d7de5d/status.svg?token=5aTNYeQdsb8qasNxfy0kDw&branch=master)](https://www.bitrise.io/app/4cd932f5e9d7de5d)
+[![Build Status](https://app.bitrise.io/app/ef9f6b792fb8dc9b/status.svg?token=lMCNm-V8FuPrc4mtUhvmfw&branch=master)](https://app.bitrise.io/app/ef9f6b792fb8dc9b)
 [![NuGet](https://img.shields.io/nuget/v/Xamarin.iOS.DGActivityIndicatorView.svg?label=NuGet)](https://www.nuget.org/packages/Xamarin.iOS.DGActivityIndicatorView/)
 
 Xamarin.iOS.DGActivityIndicatorView
